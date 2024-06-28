@@ -1,2 +1,2 @@
 # vae_align
-Alignment examples for Interspeech 2024
+Alignment examples will be available soon.
