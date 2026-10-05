@@ -3,7 +3,7 @@
 Accepted to INTERSPEECH 2024
 [arXiv preprint](https://arxiv.org/abs/2407.02749)
 
-Sample code will be available soon.
+Sample code available at https://github.com/CyberAgentAILab/vae_speech_align
 
 ## Alignment examples
 - annotated: Manually annotated phoneme boundaries in the corpus
